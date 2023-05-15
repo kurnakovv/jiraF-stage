@@ -26,3 +26,4 @@ app.MapControllers();
 app.MapHealthChecks("/ping");
 
 app.Run();
+
